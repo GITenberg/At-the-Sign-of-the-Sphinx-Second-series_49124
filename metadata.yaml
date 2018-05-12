@@ -1,4 +1,8 @@
 _repo: At-the-Sign-of-the-Sphinx-Second-series_49124
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49124-h/images/cover.jpg
 creator:
   author:
     agent_name: Wells, Carolyn
@@ -9,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1060
     wikipedia: http://en.wikipedia.org/wiki/Carolyn_Wells
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49124#At-the-Sign-of-the-Sphinx-Second-series
 gutenberg_issued: '2015-06-03'
 gutenberg_type: Text
 identifiers:
